@@ -6,6 +6,6 @@ set.smartindent = true
 set.autoindent = true
 set.expandtab = true
 -- Filetype configs
-set.tabstop = 2
-set.shiftwidth = 2
-set.softtabstop = 2
+set.tabstop = 4
+set.shiftwidth = 4
+set.softtabstop = 4
